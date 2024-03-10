@@ -1,9 +1,5 @@
 # Coursera Data Science Capstone
 
-**Jeffrey M. Hunter**
-
-July 28, 2019
-
 ## Introduction
 
 Course repository for the Data Science Specialization Capstone offered
